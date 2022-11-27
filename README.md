@@ -1,4 +1,4 @@
-ser = "nobwendel"
+user = "nobwendel"
 
 password = "perez"
 
